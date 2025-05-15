@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # PORT VPS RELAY kamu
-RELAY_PORT="12263"
+RELAY_PORT="11001"
 
 # FLUSH tapi jaga koneksi SSH biar gak lost
 sudo iptables -F
